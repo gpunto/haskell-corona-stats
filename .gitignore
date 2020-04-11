@@ -1,0 +1,7 @@
+.idea/
+.stack-work/
+out/
+corona-stats.cabal
+corona-stats.iml
+stack.yaml.lock
+*~
